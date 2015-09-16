@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:39.213053
+#+DATE: 2015-08-30 20:15:43.560867
 #+TITLE: 佛說寶雨經
 #+PROPERTY: CBETA_ID T16n0660
 #+PROPERTY: ID KR6i0298
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 660
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0298_T_000-0283b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0298_T_004-0297b> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《佛說寶雨經》卷第四¶
+《佛說寶雨經》卷第四¶
 ¶
 唐天竺三藏達摩流支譯¶
 
@@ -230,7 +229,7 @@
 山峯？謂諸有情恃己所有色力等相，受用自¶
 在，長壽無病，能得活命，工巧多聞，聰明智慧，¶
 有勝眷屬，言辭辯了，令眾樂聞，由是憍醉自¶
-讚己能。菩薩為欲摧破有情我慢山峯故，能¶
+讚已能。菩薩為欲摧破有情我慢山峯故，能¶
 示現色力之相、受用等事，最勝自在過於彼¶
 人，為說正法，摧破有情我慢高山，悉能安置¶
 清淨善處。是名菩薩能得摧破我慢山峯。
