@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:39.353424
+#+DATE: 2015-08-30 20:15:43.162943
 #+TITLE: 佛說寶雨經
 #+PROPERTY: CBETA_ID T16n0660
 #+PROPERTY: ID KR6i0298
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 660
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0298_T_000-0283b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0298_T_009-0319c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《佛說寶雨經》卷第九¶
+《佛說寶雨經》卷第九¶
 ¶
 唐天竺三藏達摩流支譯¶
 
