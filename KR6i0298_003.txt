@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:39.183529
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:16
 #+TITLE: 佛說寶雨經
 #+PROPERTY: CBETA_ID T16n0660
 #+PROPERTY: ID KR6i0298
