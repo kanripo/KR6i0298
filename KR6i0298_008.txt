@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:39.322362
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:16
 #+TITLE: 佛說寶雨經
 #+PROPERTY: CBETA_ID T16n0660
 #+PROPERTY: ID KR6i0298
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 660
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0298_T_000-0283b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0298_T_008-0315b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《佛說寶雨經》卷第八¶
+《佛說寶雨經》卷第八¶
 ¶
 唐天竺三藏達摩流支譯¶
 
@@ -26,7 +25,7 @@
 
 「云何菩薩善行村邑、聚落、國土、王都念¶
 處？善男子！菩薩若有非法之處，當須捨離。所¶
-謂酒肆、婬里、王家、博弈、醉徒、聚戲、歌舞，非是¶
+謂酒肆、婬里、王家、博奕、醉徒、聚戲、歌舞，非是¶
 出家之所行處，皆應遠離。是名菩薩善行人¶
 間念處。
 
